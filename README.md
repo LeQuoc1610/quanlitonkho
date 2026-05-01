@@ -71,11 +71,6 @@ npm install
 
 Cấu hình database connection trong `src/database/connection.ts` nếu cần.
 
-Tạo database và chạy schema:
-```sql
--- Xem file backend/src/database/schema.sql
-```
-
 ### Frontend
 
 ```bash
